@@ -1,0 +1,196 @@
+
+.list {
+    list-style-type: none;
+    padding: 20px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    text-align: right;
+    background-color: wheat; 
+    width: 100%;
+       
+}
+
+
+
+.contact {
+
+    position: relative;
+    display: inline-block;
+    margin-top: 0;  
+  
+}
+
+form {
+  display: block;
+}
+
+textarea {
+width: 100%;
+padding: 12px;
+border: 1px solid #ccc;
+border-radius: 4px;
+box-sizing: border-box;
+margin-top: 6px;
+margin-bottom: 16px;
+resize: vertical ;
+resize:horizontal;
+}
+
+label {
+  padding: 0;
+  margin: 0;
+  font: inherit;
+  font-size: 100%;
+  vertical-align: baseline;
+  border: 0;
+}
+}
+
+
+#port1 {
+  background: white;
+}
+
+
+#full {
+  width: 90%;
+  color: black;
+  background: white;
+}
+
+#division {
+  padding: 20px;
+  margin-top: 20px;
+  background: white;
+}
+
+aside {
+  float: left;
+  width: 33%;
+  height: 200px;
+  padding: 20px;
+  margin-left: 30px;
+  text-decoration-color: rgb(19, 17, 17);
+  background: white;
+ 
+
+}
+
+footer {
+  padding: 20px;
+  clear: both;
+  background: wheat;
+  width: 100%;
+}
+
+section {
+  padding: 20px;
+  margin-bottom: 20px;
+  background: wheat;
+  word-break: break-all;
+  text-align: left;
+
+}
+
+
+img {
+  padding: 10px;
+}
+
+
+
+
+
+@media (max-width: 980px) {
+  .wrapper {
+      width:100%;
+  }
+
+
+
+
+@media  (max-width: 768px) {
+  }
+  #wrapper {
+     width: 100%;
+
+  }
+
+  img {
+    width: 125x;
+    height: 125px;
+  }
+
+  #port1 {
+    padding: 50px;
+  }
+
+  #full {
+    width: 90%;
+  }
+
+
+
+
+@media  (max-width: 640px) {
+  .wrapper {
+    background-color: lightblue;
+    width: 100%;
+    align-content: center;
+  }
+
+  img {
+    width: 100px;
+  }
+
+  textarea {
+    width: 73%;
+    padding: 4px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    resize: vertical ;
+    resize:horizontal;
+    }
+
+    #email {
+      margin-left: 2%;
+    }
+
+    label {
+      padding: 0;
+      margin: 0;
+      font: inherit;
+      font-size: 70%;
+      vertical-align: baseline;
+      border: 0;
+    }
+
+    #port1 {
+      width: 50%;
+      padding: 100px;
+      margin: 20px;
+
+    }
+
+
+
+  
+   #full {
+
+    padding: 20px;
+    width: 50%;
+
+      
+      } 
+
+
+      aside {
+        padding: 30px;
+      }
+      
+
+`980px`, `768px` and `640
+woooooo

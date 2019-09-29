@@ -1,0 +1,40 @@
+body {
+    align-content: center;
+    background-color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center; 
+    color: #394549;  
+    width: 100%;
+}
+
+ul li {
+    display: inline;
+  }
+
+li a:hover {
+    background color:#551;
+    color: white;
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+    padding: 20px;
+    text-emphasis: bold;
+    width: 100%;
+}
+h2 {
+    text-align: center;
+    text-emphasis: bold;
+
+}
+
+textarea {
+    height:200px;
+    width: 50%;
+
+}
+
+hr {
+    width: 100%;
+}
